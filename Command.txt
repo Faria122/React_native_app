@@ -1,0 +1,3 @@
+npx expo start -c
+
+bundle ID : com.jsm.aora
